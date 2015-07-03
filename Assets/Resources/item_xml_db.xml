@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item st="1" pn="Torch01" in="" i="True" d="False" u="False">
+    <Attribs n="91466" w="0" />
+    <WeaponAttribs mxd="2" mnd="1" s="2" />
+    <ArmorAttribs />
+  </Item>
+</Items>

@@ -1,0 +1,11 @@
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.csprojResolveAssemblyReference.cache
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.CItemGrid.resources
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.CItemViewer.resources
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.MainWindow.resources
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.Properties.Resources.resources
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.csproj.GenerateResource.Cache
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\bin\Debug\ItemCreator.exe
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\bin\Debug\ItemCreator.pdb
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\bin\Debug\UnityEngine.dll
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.exe
+D:\Projects\DungeonWorld\ItemCreator\ItemCreator\obj\x86\Debug\ItemCreator.pdb
